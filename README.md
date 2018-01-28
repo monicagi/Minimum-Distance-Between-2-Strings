@@ -5,7 +5,7 @@ For example chnaging Sundays to Saturday requires 2 inserts ("a" and "t"), 1 rep
 
 S  undays 
 
- ii r   d
+_ii_r___d
  
 Saturday              
 
